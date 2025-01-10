@@ -1,0 +1,53 @@
+/* header */
+
+.banner{
+    background: rgb(198, 228, 214);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 120px;
+    height: 530px;
+    gap: 64px;
+    padding: 80px 100px 80px 100px;
+
+    
+
+}
+
+
+
+.title{
+    color: rgba(14, 14, 14, 0.5);
+    font-family: Fira Sans;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: left;
+}
+
+.description{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 46px;
+    font-weight: 560px;
+    text-align: left;
+    padding-top: 0px;
+}
+
+.btn-primary{
+    background: rgb(0, 106, 80);
+    border-radius: 8px;
+    height: 55px;
+    width: 250px;
+    border: none;
+   
+}
+
+.explore{
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 500;
+   padding-bottom: 10px 25px;
+
+}
