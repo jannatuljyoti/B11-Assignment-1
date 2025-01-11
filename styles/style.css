@@ -103,6 +103,11 @@
 
 }
 
+.card1:hover{
+    background-color: blue;
+}
+
+
 .card-heading{
     color: rgba(14, 14, 14, 0.7);
     font-family: Fira Sans;
@@ -137,6 +142,10 @@
     height: 260px;
     /* width: 380px; */
     padding: 26px;
+}
+
+.card2:hover{
+    background-color: brown;
 }
 
 .card2-description{
@@ -305,6 +314,13 @@
     /* gap: 48px;  */
 }
 
+.satelite-button:hover{
+    background-color: gold;
+
+}
+
+
+
 .text{
     
     color: rgb(255, 255, 255);
@@ -379,6 +395,11 @@
 
 }
 
+.amount-box:hover{
+    background-color: chocolate;
+
+}
+
 .amount-box1{
     border: 1px solid rgba(14, 14, 14, 0.15);
     border-radius: 16px;
@@ -392,6 +413,10 @@
     justify-content: flex-start;
     align-items: center;
     
+}
+
+.amount-box1:hover{
+    background-color: darkblue;
 }
 
 .amount-font{
