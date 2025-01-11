@@ -99,7 +99,7 @@
     background: rgba(84, 144, 245, 0.2);
     border-radius: 16px;
     height: 260px;
-    width: 380px;
+    /* width: 380px; */
     padding: 26px;
 
 }
@@ -128,14 +128,14 @@
     background: rgb(84, 144, 245);
     border: none;
     height: 32px;
-    width: 98px;
+    /* width: 98px; */
 }
 
 .card2{
     background: rgb(198, 228, 214);
     border-radius: 16px;
     height: 260px;
-    width: 380px;
+    /* width: 380px; */
     padding: 26px;
 }
 
@@ -145,7 +145,7 @@
     font-size: 16px;
     font-weight: 400;
     padding-bottom: 20px;
-    /* gap: 10px; */
+    
 }
 
 .card2-button{
@@ -153,7 +153,7 @@
     background: rgb(9, 161, 92);
     border: none;
     height: 32px;
-    width: 98px;
+    /* width: 98px; */
     gap: 48px;
 }
 
@@ -161,7 +161,7 @@
     background: rgb(247, 235, 207);
     border-radius: 16px;
     height: 260px;
-    width: 380px;
+    /* width: 380px; */
     padding: 26px;
 }
 
@@ -172,6 +172,63 @@
     height: 32px;
     width: 98px;
 }
+
+.quote{
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    height: 205px;
+    width: 1200px;
+    background: rgb(255, 255, 255);
+    padding: 50px 24px 48px 24px;
+    
+    
+}
+
+.Dr-Yunus{
+
+    background-image:url(../images/assets/quote-bg.png) ;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    
+   
+   
+}
+
+.Dr-speech{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    gap: 10px;
+    padding: 0px;
+    
+    
+}
+
+.Dr-name{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 0px;
+    gap: 4px;
+    margin: 0px;
+}
+
+.designation{
+    color: rgba(14, 14, 14, 0.6);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    gap: 4px;
+    padding: 0px;
+    margin: 0px;
+}
+
 
 
 
